@@ -1,5 +1,7 @@
 # Twitter Queries:🪢
--- Assignment 3 :
+# Assignment 3 :
+
+<img src = "https://github.com/PrinceSah09/Twitter-Database-Schema/assets/75531808/a085ddc8-b452-43bd-8046-67cfb6c1cf13" height = "250px" widht="260px">
 
 -- Query_01: fetch all user name from database
  - select fullName from UserProfile;
