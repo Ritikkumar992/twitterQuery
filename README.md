@@ -3,7 +3,7 @@
 
 <img src = "https://github.com/PrinceSah09/Twitter-Database-Schema/assets/75531808/a085ddc8-b452-43bd-8046-67cfb6c1cf13" height = "480px" widht="260px">
 <img src = "https://github.com/PrinceSah09/Twitter-Database-Schema/assets/75531808/56483983-4aed-43f7-bead-23f581060323" height = "480px" width = "560px">
-<img src = "https://github.com/PrinceSah09/Twitter-Database-Schema/assets/75531808/15d1b6e4-eceb-4ab3-9197-406683279931" height = "480px" width = "560px">
+<img src = "https://github.com/PrinceSah09/Twitter-Database-Schema/assets/75531808/15d1b6e4-eceb-4ab3-9197-406683279931" height = "480px" width = "500px">
 <img src = "https://github.com/PrinceSah09/Twitter-Database-Schema/assets/75531808/ce5c641b-bf44-4cec-8e2d-4fc4b200b190" height = "480px" width = "560px">
 <img src = "https://github.com/PrinceSah09/Twitter-Database-Schema/assets/75531808/62c9ac8d-f94d-4c5a-b14f-9dcaca273e65" height = "480px" width = "560px">
 <img src = "https://github.com/PrinceSah09/Twitter-Database-Schema/assets/75531808/a60641a8-24b1-4334-bc95-25f27e46dfb4" height = "480px" width = "560px">
